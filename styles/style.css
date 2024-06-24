@@ -236,7 +236,7 @@ button:hover {
 }
 
 .content__list-item:not(:last-child) {
-  padding-bottom: 26px;
+  padding-bottom: 27px;
 }
 
 .content__card-link {
